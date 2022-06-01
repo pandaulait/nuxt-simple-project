@@ -1,5 +1,6 @@
 <template>
   <div>
+	test
     <div v-if="testValue">
       {{ testValue }}
     </div>
